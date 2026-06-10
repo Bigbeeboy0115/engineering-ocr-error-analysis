@@ -1,0 +1,5 @@
+{
+  "engine_requested": "auto",
+  "engine_used": "simulated",
+  "fallback_reason": "PaddleOCR unavailable, switched to simulated OCR: No module named 'paddleocr'"
+}
